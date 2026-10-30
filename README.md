@@ -1,3 +1,11 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Ashutosh Prajapati" src="./dark.svg" width="100%">
+  </picture>
+</div>
+
 # 💫 About Me:
 📋 Personal Profile<br>Field	Detail<br>Full Name	Ashutosh prajapati<br>Contact Number	9151676656<br>Email Address	prajapatiashutosh272@gmail.com<br>Address	kaserawa ka inara tahsil road<br>Nationality	Indian<br>Date of Birth	11/09/2005<br>Marital Status	Not married<br>Religion	Hindu<br><br><br>🎯 Career Objective<br>Seeking an entry-level position where I can apply my strong work ethic, enthusiasm, and willingness to learn to contribute effectively to the team. To leverage my education and internship experiences to gain hands-on experience and develop new skills in a professional work environment.<br><br><br>🎓 Educational Qualifications<br>Course / Qualification	Institute Name	Duration	Marks / Percentage<br>12th	G.G.J.C. Baroundha, mirzapur	06/2024 - 07/2025	52.2%<br>DCA (Diploma in computer application)	Preksha Computer Academy	06/2023 - 12/2023	—<br>10th	S.N. public school	06/2021 - 06/2022	70%<br><br><br>🛠️ Skills & Personal Interests<br>Category	Details<br>Technical Skills	Photo editing (ai), vedio editing, Tally<br>Interests & Hobbies	Gaming, Playing guitar, Travelling and Watching moviesMS OFFICE, TALLY(basic), WEBSITE BUILD(through ai and developed), AI PROMPT HANDLING, HTML, CSS, PYTHON(basic), PHOTO AND VEDIO EDITING(through ai and manually),
 
